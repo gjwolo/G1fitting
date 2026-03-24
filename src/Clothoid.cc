@@ -1182,7 +1182,7 @@ namespace Clothoid {
 
   static
   inline
-  bool
+  valueType
   power2( valueType a )
   { return a*a ; }
 
